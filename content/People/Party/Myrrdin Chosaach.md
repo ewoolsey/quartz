@@ -2,6 +2,7 @@
 alias: Myrrdin
 tags: member/brethyn-noswaith, race/genasi
 cssclass: img-grid
+title: Myrrdin Chosaach
 ---
 
 ![Myrrdin_1.png](../../assets/Myrrdin_1.png)

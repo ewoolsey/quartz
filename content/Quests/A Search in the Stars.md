@@ -1,5 +1,6 @@
 ---
 tags: quests/hook
+title: A Search in the Stars
 ---
 
 [Myrrdin's](../People/Party/Myrrdin%20Chosaach.md)  uncle [Nikephoros](../People/Nikephoros.md) completed his own [A'lawdrinaieth](../Things/A'lawdrinaieth.md) nearly 12 years ago by scaling the sheer cliffs that line the edge of the [The Forlorn Shiver](../Locations/Cloud%20Sea/Shards/The%20Forlorn%20Shiver/The%20Forlorn%20Shiver.md) until he reached the very bottom, scraping against sky itself. There, [Nikephoros](../People/Nikephoros.md) discovered the ruins of some ancient arcane technology. A dark energy lingered around the base of the Shiver and these ruins. [Nikephoros](../People/Nikephoros.md), got too close to this structure, and when his hand made contact with it, a dark energy pulsed, radiated and perfused through [Nikephoros](../People/Nikephoros.md) himself, and the entire island at large, seemingly activated by his presence. Since that day 12 years ago, a corrupting energy has slowly been creeping it's way up to the top of the shiver, almost as if the sheer cliffs on it's edge were rusting and turning a sickly reddish colour. Large boulders from its edge calving and falling into the depths of the [Cloud Sea](../Locations/Cloud%20Sea/Cloud%20Sea.md).

@@ -1,5 +1,6 @@
 ---
 tags: quests/hook
+title: Hide and Seek
 ---
 
 [Myrrdin](../People/Party/Myrrdin%20Chosaach.md) learned a little from the [crew](../People/Captain%20Amara.md) of the airship that he landed on. 

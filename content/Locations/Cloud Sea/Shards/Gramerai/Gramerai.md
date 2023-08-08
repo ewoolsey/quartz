@@ -1,4 +1,5 @@
 ---
+title: Gramerai
 ---
 
 [Gramerai](Gramerai.md) is a large island floating within the [Cloud Sea](../../Cloud%20Sea.md). It was the central point hit by a large winter storm known as the [Grave Winter](../../../../Events/Grave%20Winter.md), which brought large amounts of undead soldiers to the island, leaving it uninhabitable. 

@@ -1,4 +1,5 @@
 ---
+title: Rifton
 ---
 
 Rifton is a smaller [shard](../Shards.md) floating in the [Cloud Sea](../../Cloud%20Sea.md) not too far from the island of [Gramerai](../Gramerai/Gramerai.md). 
