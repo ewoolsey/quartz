@@ -1,0 +1,5 @@
+---
+tags: member/brethyn-noswaith,
+---
+
+The [Primevil Speakers](Primevil%20Speakers.md) are a group of 5 elders who function as the leadership of the [Brethyn Noswaith](Brethyn%20Noswaith.md) upon [The Forlorn Shiver](../Locations/Cloud%20Sea/Shards/The%20Forlorn%20Shiver/The%20Forlorn%20Shiver.md).
