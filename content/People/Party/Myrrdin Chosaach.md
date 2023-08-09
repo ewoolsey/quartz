@@ -8,8 +8,8 @@ title: |
   Myrrdin Chosaach
 ---
 
-![Myrrdin_1.png](assets/Myrrdin_1.png)
-![Myrrdin_2.png](assets/Myrrdin_2.png)
+![Myrrdin_1.png](/assets/Myrrdin_1.png)
+![Myrrdin_2.png](/assets/Myrrdin_2.png)
 ![Myrrdin_3.png](assets/Myrrdin_3.png)
 ![Myrrdin_4.png](assets/Myrrdin_4.png)
 
