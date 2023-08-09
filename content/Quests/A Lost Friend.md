@@ -1,5 +1,6 @@
 ---
-tag: quests/hook
+tags:
+- quests/hook
 title: |
   A Lost Friend
 ---

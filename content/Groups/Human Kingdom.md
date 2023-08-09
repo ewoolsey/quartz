@@ -1,5 +1,4 @@
 ---
-tags: null
 title: |
   Human Kingdom
 ---

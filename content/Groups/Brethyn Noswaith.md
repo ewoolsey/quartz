@@ -1,5 +1,7 @@
 ---
-alias: Noswaith, Those of Star and Sky
+aliases:
+- Noswaith
+- Those of Star and Sky
 title: |
   Brethyn Noswaith
 ---

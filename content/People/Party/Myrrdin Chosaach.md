@@ -1,7 +1,9 @@
 ---
 aliases:
 - Myrrdin
-tags: member/brethyn-noswaith, race/genasi
+tags:
+- member/brethyn-noswaith
+- race/genasi
 title: |
   Myrrdin Chosaach
 ---
