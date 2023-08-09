@@ -1,6 +1,6 @@
 baseURL = "https://ewoolsey.github.io/quartz/"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",

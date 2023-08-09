@@ -33,10 +33,10 @@ SORT file.mtime DESCENDING
 
 %% Begin Waypoint %%
 
-* **[Gramerai](Gramerai/Gramerai.md)**
-* **[Hearthen](Hearthen/Hearthen.md)**
-* [Pytax](Pytax.md)
-* **[Rifton](Rifton/Rifton.md)**
-* **[The Forlorn Shiver](The%20Forlorn%20Shiver/The%20Forlorn%20Shiver.md)**
+* **[Gramerai](Locations/Cloud%20Sea/Shards/Gramerai/Gramerai.md)**
+* **[Hearthen](Locations/Cloud%20Sea/Shards/Hearthen/Hearthen.md)**
+* [Pytax](Locations/Cloud%20Sea/Shards/Pytax.md)
+* **[Rifton](Locations/Cloud%20Sea/Shards/Rifton/Rifton.md)**
+* **[The Forlorn Shiver](Locations/Cloud%20Sea/Shards/The%20Forlorn%20Shiver/The%20Forlorn%20Shiver.md)**
 
 %% End Waypoint %%
