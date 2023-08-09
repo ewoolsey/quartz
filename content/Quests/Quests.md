@@ -1,5 +1,6 @@
 ---
-title: Quests
+title: |
+  Quests
 ---
 
 ### In Progress

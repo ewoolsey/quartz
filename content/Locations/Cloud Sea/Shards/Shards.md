@@ -1,5 +1,6 @@
 ---
-title: Shards
+title: |
+  Shards
 ---
 
 # Hooks

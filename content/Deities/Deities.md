@@ -1,5 +1,6 @@
 ---
-title: Deities
+title: |
+  Deities
 ---
 
 %% Begin Waypoint %%

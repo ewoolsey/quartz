@@ -1,6 +1,9 @@
 ---
-tags: member/brethyn-noswaith, race/genasi
-title: Therapydd
+tags:
+- member/brethyn-noswaith
+- race/genasi
+title: |
+  Therapydd
 ---
 
 Therapydd was one of [Myrrdin Chosaach's](People/Party/Myrrdin%20Chosaach.md) life long friends from a young age.

@@ -1,5 +1,6 @@
 ---
-title: Blackblade Tribe
+title: |
+  Blackblade Tribe
 ---
 
 

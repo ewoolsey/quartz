@@ -1,5 +1,6 @@
 ---
-title: Humans
+title: |
+  Humans
 ---
 
 

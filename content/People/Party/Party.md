@@ -1,5 +1,6 @@
 ---
-title: Party
+title: |
+  Party
 ---
 
 %% Begin Waypoint %%

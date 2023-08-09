@@ -1,5 +1,6 @@
 ---
-title: Hariotte Sparding
+title: |
+  Hariotte Sparding
 ---
 
 

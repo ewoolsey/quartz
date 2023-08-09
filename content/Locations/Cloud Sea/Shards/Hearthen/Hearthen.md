@@ -1,5 +1,6 @@
 ---
-title: Hearthen
+title: |
+  Hearthen
 ---
 
 

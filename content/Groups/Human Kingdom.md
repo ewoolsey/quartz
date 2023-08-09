@@ -1,6 +1,7 @@
 ---
 tags: null
-title: Human Kingdom
+title: |
+  Human Kingdom
 ---
 
 The human empire lives on a far away [shard](Locations/Cloud%20Sea/Shards/Shards.md) known has [Hearthen](Locations/Cloud%20Sea/Shards/Hearthen/Hearthen.md).

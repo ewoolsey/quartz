@@ -1,5 +1,6 @@
 ---
-title: Lawry
+title: |
+  Lawry
 ---
 
 

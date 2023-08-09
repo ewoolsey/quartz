@@ -1,5 +1,6 @@
 ---
-title: Stormwind Clan
+title: |
+  Stormwind Clan
 ---
 
 

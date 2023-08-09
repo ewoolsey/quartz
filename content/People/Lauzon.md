@@ -1,6 +1,8 @@
 ---
-tags: race/dragon
-title: Lauzon
+tags:
+- race/dragon
+title: |
+  Lauzon
 ---
 
 

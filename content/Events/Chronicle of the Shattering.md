@@ -1,5 +1,6 @@
 ---
-title: Chronicle of the Shattering
+title: |
+  Chronicle of the Shattering
 ---
 
 

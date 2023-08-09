@@ -1,7 +1,12 @@
 ---
-title: Typhoon
+title: |
+  Typhoon
 ---
 
 ---
 
-## tags: race/dragonborn
+tags:
+
+* race/dragonborn
+
+---

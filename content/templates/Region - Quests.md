@@ -1,5 +1,6 @@
 ---
-title: Region - Quests
+title: |
+  Region - Quests
 ---
 
 # Quests

@@ -1,6 +1,7 @@
 ---
 alias: Noswaith, Those of Star and Sky
-title: Brethyn Noswaith
+title: |
+  Brethyn Noswaith
 ---
 
 The tip of [The Forlorn Shiver](Locations/Cloud%20Sea/Shards/The%20Forlorn%20Shiver/The%20Forlorn%20Shiver.md), is home to an old civilization of men and women who call themselves [Brethyn Noswaith](Groups/Brethyn%20Noswaith.md). The leaders of these people are a group of 5 elders who together form the [Primevil Speakers](Groups/Primevil%20Speakers.md). Ascending into this position of leadership is highly respected by many [Noswaith](Groups/Brethyn%20Noswaith.md) people (of which there are approximately 1200).

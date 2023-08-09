@@ -1,5 +1,6 @@
 ---
-title: First Age
+title: |
+  First Age
 ---
 
 

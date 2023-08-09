@@ -1,5 +1,6 @@
 ---
-title: Spire of the Solar Wind
+title: |
+  Spire of the Solar Wind
 ---
 
 
